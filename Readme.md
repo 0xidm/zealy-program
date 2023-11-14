@@ -1,7 +1,6 @@
 # Zealy Program
 
-```javascript
-window.location = 'zealy.io/c/savvy/leaderboard';
-let xp = $x("//*[contains(@class, 'css-s22lew')]")
-let names = $x("//*[contains(@class, 'css-zxjdn1')]")
-```
+## Round 1
+
+- [Airdrop CSV](./blob/main/data/round1.csv)
+- [The math notebook](./blob/main/zealy-round1.upynb)
