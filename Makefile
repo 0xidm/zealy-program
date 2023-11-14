@@ -3,4 +3,7 @@ all:
 
 requirements:
 	pip install -U pip
-	pip install jupyterlab
+	pip install jupyterlab pandas
+
+dl:
+	./bin/dl.sh
