@@ -2,5 +2,5 @@
 
 ## Round 1
 
-- [Airdrop CSV](./blob/main/data/round1.csv)
-- [The math notebook](./blob/main/zealy-round1.upynb)
+- [Airdrop CSV](./data/round1.csv)
+- [The math notebook](./zealy-round1.upynb)
